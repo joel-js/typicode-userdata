@@ -2,5 +2,6 @@
   "user": {
     "id": 1,
     "name": "user1"
-  }
+  },
+  "login": true
 }
